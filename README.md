@@ -55,6 +55,7 @@ excel name format: animal code - treatment type - stain type - hipp. region - sl
 
 (7) You are done! YAY!! 🎇
 
+Reminder: run the test data, b series, to make sure that everything is working as it should be before starting your data set.
 
 ## Roadmap
 
