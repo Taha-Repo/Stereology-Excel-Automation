@@ -1,7 +1,3 @@
-
-![Logo](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/th5xamgrr6se0x5ro4g6.png)
-
-
 # Stereology Excel Automation
 [![MIT License](https://img.shields.io/apm/l/atomic-design-ui.svg?)](https://github.com/tterb/atomic-design-ui/blob/master/LICENSEs)
 
@@ -18,14 +14,8 @@ Curiosity about the intersection of the medicine and biotechology industries.
 - GitHub: [@Taha-Repo](https://www.github.com/Taha-Repo)
 - LinkedIn: [Taha Qamari](https://www.linkedin.com/in/taha-qamari-b08676178)
 - Email: Taq2021@tamu.edu
-## Demo
 
-Insert gif or link to demo
-
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
-
-
-## Installation
+## Installation and Running the program
 #### Order of input Data
 examples of input Data are included in this project. The format of the input data excel files are important for the program to work properly.
 
