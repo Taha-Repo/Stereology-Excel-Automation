@@ -6,7 +6,7 @@ In unbiased stereology cell counting for multiple animals with different stains 
 
 
 ## 🚀 About Me
-Second year; BS Neuroscience Cellular and Molecular Biology undergraduate student at The Texas A&M University.
+BS Neuroscience Cellular and Molecular Biology undergraduate student at The Texas A&M University.
 
 Curiosity about the intersection of the medicine and biotechology industries.
 
